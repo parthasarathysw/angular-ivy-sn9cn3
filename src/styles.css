@@ -1,0 +1,5 @@
+/* Add application styles & imports to this file! */
+@import 'node_modules/bootstrap/dist/css/bootstrap.min.css';
+a {
+  font-size: 30px;
+}
